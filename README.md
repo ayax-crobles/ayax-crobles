@@ -5,9 +5,9 @@
 Me interesan la **bioinformática, el análisis de datos biológicos, Linux y la 
 biología computacional**.
 
-Actualmente trabajo con análisis de datos transcriptómicos, expresión génica y 
-redes de coexpresión, mientras desarrollo habilidades prácticas en Linux, Bash y
- herramientas de línea de comandos.
+Mi trabajo actual se centra en el análisis de datos transcriptómicos, expresión 
+génica y redes de coexpresión, aplicando R, Python, Bash y entornos Linux para 
+el desarrollo de flujos de trabajo de datos biomédicos.
 
 ## Intereses
 
@@ -43,8 +43,8 @@ I'm interested in **bioinformatics, biological data analysis, Linux, and
 computational biology**.
 
 My current work focuses on transcriptomic data analysis, gene expression, and 
-gene co-expression networks, while developing practical skills in Linux, Bash, 
-and command-line workflows.
+co-expression networks, leveraging R, Python, Bash, and Linux environments to 
+build biological data workflows.
 
 ### Interests
 
